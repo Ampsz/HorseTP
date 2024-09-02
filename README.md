@@ -44,4 +44,4 @@ If you encounter any issues or have feature requests, please open an issue on th
 We welcome contributions from the community! If you'd like to contribute, please fork the repository, create a feature branch, and submit a pull request.
 
 ## **License**
-This project is licensed under the MIT License. See the [LICENSE](#) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/BaconDrips/HorseTP/tree/main?tab=MIT-1-ov-file#readme) file for details.
