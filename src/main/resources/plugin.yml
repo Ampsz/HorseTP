@@ -1,0 +1,10 @@
+name: HorseTP
+version: '${project.version}'
+main: net.horsetp.HorseTP
+author: Amps
+description: Teleporting while your on a horse
+api-version: '1.21'
+permissions:
+  horsetp.tp:
+    description: Allows teleporting with a horse.
+    default: op
