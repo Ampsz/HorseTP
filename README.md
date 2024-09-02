@@ -38,7 +38,7 @@ Once installed and configured:
 - Action Bar notifications for teleportation status.
 
 ## **Support**
-If you encounter any issues or have feature requests, please open an issue on the [GitHub repository](#).
+If you encounter any issues or have feature requests, please open an issue on the [GitHub repository](https://github.com/BaconDrips/HorseTP/issues).
 
 ## **Contributing**
 We welcome contributions from the community! If you'd like to contribute, please fork the repository, create a feature branch, and submit a pull request.
